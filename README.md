@@ -24,3 +24,17 @@ Please create a local database for a student examination system(student_examinat
    |  4   |    002     |    1002    | 60.5  |
 
 Please use SQL to implement above demands and provide a description with a screenshot of the implementation result.
+
+screenshot 
+
+- the result of student
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/img/student_result.jpeg)
+
+- the result of subject
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/img/subject_result.jpeg)
+
+- the result of score
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-english-2019-10-12-6-15-6-811/blob/master/img/score_result.jpeg)
